@@ -58,5 +58,5 @@ An example of the expected output is shown below:
 
 ## Code Source
 - Learning Assistant
-- GitHub location: https://github.com/jeffjunohkim/belly-button-challenge.git
+- GitHub location: https://github.com/jeffjunohkim/leaflet-challenge.git
   
